@@ -1,6 +1,8 @@
-<h1 align="center"><em>Hello, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-95be-0c4047144dea.gif" width="30"> I'm Shubhayu Banik</em></h1>
-<h3 align="center">A Curious Tech Explorer from India</h3>
+<h1 align="center"><em>Hello,<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">I'm Shubhayu Banik</em></h1>
+<h3 align="center">Exploring tech with a spark of creativity</h3>
 
+- 🔭 **Currently building an ECG generator using Python and machine learning for heart rate simulations.**
+  
 - 📫 How to reach me: **shubhayubanik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
